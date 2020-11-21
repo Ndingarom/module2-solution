@@ -1,0 +1,50 @@
+
+@media only screen and (min-width: 992px) {
+
+	.middle{
+		display: flex;
+	}
+	.h1{
+		text-align: center;
+	}
+	.test{
+		display: flex;
+		justify-content: flex-end;
+	}
+	.common-class{
+		background-color: gray;
+		border: solid 3px black;
+		padding: 1px 4px 4px 3px;
+		width: 35%;
+		margin-left: 70px;
+		margin-top: 50px;
+		
+		
+	}
+	
+	.coner{
+		width: 40%;
+		text-align: center;
+		border: 3px solid black;
+	
+		
+	}
+	
+	.chicken{
+		background-color: rgb(208 143 144);
+	}
+	
+	
+	.Beef{
+		background-color: rgb(194 48 48);
+	
+	}
+	
+	.Sushi{
+		background-color: rgb(224 219 140);
+	}
+}
+
+
+
+
